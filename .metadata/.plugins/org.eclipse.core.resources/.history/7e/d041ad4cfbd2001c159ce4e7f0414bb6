@@ -1,0 +1,12 @@
+package test2;
+
+public class Price {
+	
+Public int Items2()	
+	{
+int a= 5;
+return a;
+
+	}
+}
+
